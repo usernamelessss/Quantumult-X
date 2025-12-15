@@ -1,6 +1,4 @@
-![](https://img.shields.io/badge/-Quantumult%20X%20%E8%87%AA%E7%94%A8-blue)
-
-<img src="https://raw.githubusercontent.com/Parantric/picture-bed/main/202304102110541.png"  />
+![wallpaper_20230818232154_00000046.jpg](https://4f2dd13d.zycs-img-3ao.pages.dev/v2/FwMUuVG.jpeg)
 
 ## :white_check_mark: cron表达式
 
