@@ -1,5 +1,17 @@
 ![wallpaper_20230818232154_00000046.jpg](https://4f2dd13d.zycs-img-3ao.pages.dev/v2/FwMUuVG.jpeg)
 
+---
+
+## 🤔 常用正则表达式
+
+---
+
+- 排除节点
+
+  ```python
+  ^((?!套餐|备用|重置|客户|Date|Reset|\d{3} GB|机场).)*$
+  ```
+
 ## :white_check_mark: cron表达式
 
 ### :white_check_mark: 圈x task 任务中使用 cron 表达式规范
