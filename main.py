@@ -37,7 +37,8 @@ def generate_image_config_json():
 
 				# 提取文件名作为 ID 或名称
 				file_id = os.path.splitext(file)[0]
-
+				if 'huang_logo' == file_id:
+					continue
 				image_list.append(
 					{
 						'name': file_id,
@@ -50,6 +51,12 @@ def generate_image_config_json():
 
 	# 写入 JSON 文件
 	# 使用 indent=4 使 JSON 文件更具可读性
+	logo = {
+		"name": "huang_logo",
+		"url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/likes/huang_logo.png"
+	}
+
+	image_list.insert(0,logo)
 	config_data = {
 		'name': r'荒的图标库',
 		'description': r'荒的图标库',

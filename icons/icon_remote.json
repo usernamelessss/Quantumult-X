@@ -3,20 +3,696 @@
     "description": "荒的图标库",
     "icons": [
         {
+            "name": "huang_logo",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/likes/huang_logo.png"
+        },
+        {
+            "name": "AfreecaTV",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/AfreecaTV.png"
+        },
+        {
+            "name": "AI",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/AI.png"
+        },
+        {
+            "name": "Apple",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Apple.png"
+        },
+        {
+            "name": "Apple_1",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Apple_1.png"
+        },
+        {
+            "name": "Apple_2",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Apple_2.png"
+        },
+        {
+            "name": "Apple_Fitness+",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Apple_Fitness+.png"
+        },
+        {
+            "name": "Apple_Fitness",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Apple_Fitness.png"
+        },
+        {
+            "name": "Apple_Update",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Apple_Update.png"
+        },
+        {
+            "name": "App_Store",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/App_Store.png"
+        },
+        {
+            "name": "Azure",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Azure.png"
+        },
+        {
+            "name": "Bahamut",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Bahamut.png"
+        },
+        {
+            "name": "BBC_iPlayer",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/BBC_iPlayer.png"
+        },
+        {
+            "name": "BBC_iPlayer_1",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/BBC_iPlayer_1.png"
+        },
+        {
+            "name": "BBC_iPlayer_2",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/BBC_iPlayer_2.png"
+        },
+        {
+            "name": "bilibili",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/bilibili.png"
+        },
+        {
+            "name": "bilibili_1",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/bilibili_1.png"
+        },
+        {
+            "name": "bilibili_2",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/bilibili_2.png"
+        },
+        {
+            "name": "bilibili_3",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/bilibili_3.png"
+        },
+        {
+            "name": "bilibili_4",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/bilibili_4.png"
+        },
+        {
+            "name": "Copilot",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Copilot.png"
+        },
+        {
+            "name": "Dinosaur",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Dinosaur.png"
+        },
+        {
+            "name": "Discord",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Discord.png"
+        },
+        {
+            "name": "discovery+",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/discovery+.png"
+        },
+        {
+            "name": "Disney+",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Disney+.png"
+        },
+        {
+            "name": "Disney+_1",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Disney+_1.png"
+        },
+        {
+            "name": "Disney+_2",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Disney+_2.png"
+        },
+        {
+            "name": "Disney",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Disney.png"
+        },
+        {
+            "name": "Domestic",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Domestic.png"
+        },
+        {
+            "name": "Drill",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Drill.png"
+        },
+        {
+            "name": "Facebook",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Facebook.png"
+        },
+        {
+            "name": "Flamingo",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Flamingo.png"
+        },
+        {
+            "name": "FOX",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/FOX.png"
+        },
+        {
+            "name": "Fries",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Fries.png"
+        },
+        {
+            "name": "fuboTV",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/fuboTV.png"
+        },
+        {
+            "name": "GitHub",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/GitHub.png"
+        },
+        {
+            "name": "GitHub_Letter",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/GitHub_Letter.png"
+        },
+        {
+            "name": "Gmail",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Gmail.png"
+        },
+        {
+            "name": "Google",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Google.png"
+        },
+        {
+            "name": "Google_Drive",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Google_Drive.png"
+        },
+        {
+            "name": "Google_Opinion_Rewards",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Google_Opinion_Rewards.png"
+        },
+        {
+            "name": "Google_Search",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Google_Search.png"
+        },
+        {
+            "name": "HBO",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/HBO.png"
+        },
+        {
+            "name": "HBO_1",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/HBO_1.png"
+        },
+        {
+            "name": "HBO_2",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/HBO_2.png"
+        },
+        {
+            "name": "HBO_GO",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/HBO_GO.png"
+        },
+        {
+            "name": "HBO_GO_1",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/HBO_GO_1.png"
+        },
+        {
+            "name": "HBO_GO_2",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/HBO_GO_2.png"
+        },
+        {
+            "name": "HBO_Max",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/HBO_Max.png"
+        },
+        {
             "name": "hmlygj_radian",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/hmlygj_radian.png"
+        },
+        {
+            "name": "Hulu",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Hulu.png"
+        },
+        {
+            "name": "Hulu_1",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Hulu_1.png"
+        },
+        {
+            "name": "iCloud",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/iCloud.png"
+        },
+        {
+            "name": "Infuse",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Infuse.png"
+        },
+        {
+            "name": "Infuse_7",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Infuse_7.png"
+        },
+        {
+            "name": "Ingress",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Ingress.png"
+        },
+        {
+            "name": "Instagram",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Instagram.png"
+        },
+        {
+            "name": "iQIYI&bilibili",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/iQIYI&bilibili.png"
+        },
+        {
+            "name": "iQIYI",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/iQIYI.png"
+        },
+        {
+            "name": "iQIYI_1",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/iQIYI_1.png"
+        },
+        {
+            "name": "ITV",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/ITV.png"
+        },
+        {
+            "name": "ITV_1",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/ITV_1.png"
+        },
+        {
+            "name": "ITV_2",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/ITV_2.png"
+        },
+        {
+            "name": "Kakao",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Kakao.png"
+        },
+        {
+            "name": "KKBOX",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/KKBOX.png"
+        },
+        {
+            "name": "KKTV",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/KKTV.png"
+        },
+        {
+            "name": "Line",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Line.png"
+        },
+        {
+            "name": "Linkedin",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Linkedin.png"
+        },
+        {
+            "name": "LiTV",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/LiTV.png"
+        },
+        {
+            "name": "LogosGoogleGemini",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/LogosGoogleGemini.svg"
+        },
+        {
+            "name": "LOL",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/LOL.png"
+        },
+        {
+            "name": "Mail",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Mail.png"
+        },
+        {
+            "name": "MdiMotionPlay",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/MdiMotionPlay.svg"
+        },
+        {
+            "name": "Mickey",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Mickey.png"
+        },
+        {
+            "name": "Microsoft",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Microsoft.png"
+        },
+        {
+            "name": "Mouse",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Mouse.png"
+        },
+        {
+            "name": "Music_Enhance",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Music_Enhance.png"
+        },
+        {
+            "name": "My5",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/My5.png"
+        },
+        {
+            "name": "myTV_SUPER",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/myTV_SUPER.png"
+        },
+        {
+            "name": "Naiko",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Naiko.png"
+        },
+        {
+            "name": "NBA",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/NBA.png"
+        },
+        {
+            "name": "NBC",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/NBC.png"
+        },
+        {
+            "name": "Netease_Music",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Netease_Music.png"
+        },
+        {
+            "name": "Netease_Music_Unlock",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Netease_Music_Unlock.png"
+        },
+        {
+            "name": "Netflix",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Netflix.png"
+        },
+        {
+            "name": "Netflix_Letter",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Netflix_Letter.png"
+        },
+        {
+            "name": "Nfcloud",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Nfcloud.png"
+        },
+        {
+            "name": "niconico",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/niconico.png"
+        },
+        {
+            "name": "niconico_1",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/niconico_1.png"
+        },
+        {
+            "name": "niconico_2",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/niconico_2.png"
+        },
+        {
+            "name": "Nintendo",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Nintendo.png"
+        },
+        {
+            "name": "Notion",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Notion.png"
+        },
+        {
+            "name": "nowe",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/nowe.png"
+        },
+        {
+            "name": "PayPal",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/PayPal.png"
+        },
+        {
+            "name": "Pornhub",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Pornhub.png"
+        },
+        {
+            "name": "Pornhub_1",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Pornhub_1.png"
+        },
+        {
+            "name": "Pornhub_2",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Pornhub_2.png"
+        },
+        {
+            "name": "PostBox",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/PostBox.png"
+        },
+        {
+            "name": "PostBox_1",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/PostBox_1.png"
+        },
+        {
+            "name": "Prime_Video",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Prime_Video.png"
+        },
+        {
+            "name": "Prime_Video_1",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Prime_Video_1.png"
+        },
+        {
+            "name": "Prime_Video_2",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Prime_Video_2.png"
+        },
+        {
+            "name": "QQ",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/QQ.png"
+        },
+        {
+            "name": "Quantumult_X",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Quantumult_X.png"
+        },
+        {
+            "name": "Qure",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Qure.png"
+        },
+        {
+            "name": "Rocket",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Rocket.png"
+        },
+        {
+            "name": "Spotify",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Spotify.png"
+        },
+        {
+            "name": "Steam",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Steam.png"
+        },
+        {
+            "name": "Taobao",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Taobao.png"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Telegram.png"
+        },
+        {
+            "name": "Telegram_X",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Telegram_X.png"
+        },
+        {
+            "name": "TestFlight",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/TestFlight.png"
+        },
+        {
+            "name": "TestFlight_1",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/TestFlight_1.png"
+        },
+        {
+            "name": "TestFlight_2",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/TestFlight_2.png"
+        },
+        {
+            "name": "TikTok",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/TikTok.png"
+        },
+        {
+            "name": "TikTok_1",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/TikTok_1.png"
+        },
+        {
+            "name": "TikTok_2",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/TikTok_2.png"
+        },
+        {
+            "name": "Tubi",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Tubi.png"
+        },
+        {
+            "name": "Twitch",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Twitch.png"
+        },
+        {
+            "name": "Twitter",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Twitter.png"
+        },
+        {
+            "name": "Want_Want_1",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Want_Want_1.png"
+        },
+        {
+            "name": "WeChat",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/WeChat.png"
+        },
+        {
+            "name": "Weibo",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Weibo.png"
+        },
+        {
+            "name": "WeTV",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/WeTV.png"
+        },
+        {
+            "name": "WeTV_Letter",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/WeTV_Letter.png"
+        },
+        {
+            "name": "Windows",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Windows.png"
+        },
+        {
+            "name": "Windows_11",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Windows_11.png"
+        },
+        {
+            "name": "Xbox",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Xbox.png"
+        },
+        {
+            "name": "Yahoo",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Yahoo.png"
+        },
+        {
+            "name": "Yahoo_1",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Yahoo_1.png"
+        },
+        {
+            "name": "YouTube",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/YouTube.png"
+        },
+        {
+            "name": "YouTube_Letter",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/YouTube_Letter.png"
+        },
+        {
+            "name": "YouTube_Music",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/YouTube_Music.png"
+        },
+        {
+            "name": "Africa_Map",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/area/Africa_Map.png"
+        },
+        {
+            "name": "America_Map",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/area/America_Map.png"
+        },
+        {
+            "name": "Asia_Map",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/area/Asia_Map.png"
+        },
+        {
+            "name": "China_Map",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/area/China_Map.png"
+        },
+        {
+            "name": "Europe_Map",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/area/Europe_Map.png"
+        },
+        {
+            "name": "Global",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/area/Global.png"
+        },
+        {
+            "name": "LA_Map",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/area/LA_Map.png"
+        },
+        {
+            "name": "Oceania_Map",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/area/Oceania_Map.png"
+        },
+        {
+            "name": "United_States_Map",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/area/United_States_Map.png"
+        },
+        {
+            "name": "World_Map",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/area/World_Map.png"
+        },
+        {
+            "name": "Argentina",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/flag/Argentina.png"
+        },
+        {
+            "name": "Australia",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/flag/Australia.png"
+        },
+        {
+            "name": "Brazil",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/flag/Brazil.png"
         },
         {
             "name": "Canada",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/flag/Canada.png"
         },
         {
-            "name": "UK",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/flag/UK.png"
+            "name": "China",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/flag/China.png"
         },
         {
-            "name": "US",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/flag/US.png"
+            "name": "Egypt",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/flag/Egypt.png"
+        },
+        {
+            "name": "European_Union",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/flag/European_Union.png"
+        },
+        {
+            "name": "Finland",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/flag/Finland.png"
+        },
+        {
+            "name": "France",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/flag/France.png"
+        },
+        {
+            "name": "Germany",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/flag/Germany.png"
+        },
+        {
+            "name": "Hong_Kong",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/flag/Hong_Kong.png"
+        },
+        {
+            "name": "India",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/flag/India.png"
+        },
+        {
+            "name": "Japan",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/flag/Japan.png"
+        },
+        {
+            "name": "Korea",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/flag/Korea.png"
+        },
+        {
+            "name": "Macao",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/flag/Macao.png"
+        },
+        {
+            "name": "Malaysia",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/flag/Malaysia.png"
+        },
+        {
+            "name": "Null_Nation",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/flag/Null_Nation.png"
+        },
+        {
+            "name": "Philippines",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/flag/Philippines.png"
+        },
+        {
+            "name": "Pirate_Nation",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/flag/Pirate_Nation.png"
+        },
+        {
+            "name": "Rainbow_1",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/flag/Rainbow_1.png"
+        },
+        {
+            "name": "Russia",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/flag/Russia.png"
+        },
+        {
+            "name": "Singapore",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/flag/Singapore.png"
+        },
+        {
+            "name": "Taiwan",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/flag/Taiwan.png"
+        },
+        {
+            "name": "Thailand",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/flag/Thailand.png"
+        },
+        {
+            "name": "Turkey",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/flag/Turkey.png"
+        },
+        {
+            "name": "TVB",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/flag/TVB.png"
+        },
+        {
+            "name": "Ukraine",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/flag/Ukraine.png"
+        },
+        {
+            "name": "United_Kingdom",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/flag/United_Kingdom.png"
+        },
+        {
+            "name": "United_Nations",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/flag/United_Nations.png"
+        },
+        {
+            "name": "United_States",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/flag/United_States.png"
         },
         {
             "name": "5iTV",
@@ -39,26 +715,6 @@
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/AdWhite.png"
         },
         {
-            "name": "AfreecaTV",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/AfreecaTV.png"
-        },
-        {
-            "name": "Africa_Map",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Africa_Map.png"
-        },
-        {
-            "name": "AGA",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/AGA.png"
-        },
-        {
-            "name": "AI",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/AI.png"
-        },
-        {
-            "name": "AIA",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/AIA.png"
-        },
-        {
             "name": "Airport",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Airport.png"
         },
@@ -79,10 +735,6 @@
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Amazon_1.png"
         },
         {
-            "name": "America_Map",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/America_Map.png"
-        },
-        {
             "name": "AmyTelecom",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/AmyTelecom.png"
         },
@@ -95,28 +747,8 @@
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Apeach.png"
         },
         {
-            "name": "Apple",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Apple.png"
-        },
-        {
-            "name": "Apple_1",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Apple_1.png"
-        },
-        {
-            "name": "Apple_2",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Apple_2.png"
-        },
-        {
-            "name": "Apple_Fitness+",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Apple_Fitness+.png"
-        },
-        {
             "name": "Apple_Fitness+_Letter",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Apple_Fitness+_Letter.png"
-        },
-        {
-            "name": "Apple_Fitness",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Apple_Fitness.png"
         },
         {
             "name": "Apple_Music",
@@ -135,36 +767,8 @@
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Apple_TV_Plus.png"
         },
         {
-            "name": "Apple_Update",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Apple_Update.png"
-        },
-        {
-            "name": "App_Store",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/App_Store.png"
-        },
-        {
-            "name": "AR",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/AR.png"
-        },
-        {
             "name": "Area",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Area.png"
-        },
-        {
-            "name": "Argentina",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Argentina.png"
-        },
-        {
-            "name": "Asia_Map",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Asia_Map.png"
-        },
-        {
-            "name": "AU",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/AU.png"
-        },
-        {
-            "name": "Australia",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Australia.png"
         },
         {
             "name": "Auto",
@@ -179,56 +783,12 @@
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Available_1.png"
         },
         {
-            "name": "Azure",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Azure.png"
-        },
-        {
             "name": "Back",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Back.png"
         },
         {
-            "name": "Bahamut",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Bahamut.png"
-        },
-        {
             "name": "Bamboo",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Bamboo.png"
-        },
-        {
-            "name": "BBC_iPlayer",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/BBC_iPlayer.png"
-        },
-        {
-            "name": "BBC_iPlayer_1",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/BBC_iPlayer_1.png"
-        },
-        {
-            "name": "BBC_iPlayer_2",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/BBC_iPlayer_2.png"
-        },
-        {
-            "name": "BGP",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/BGP.png"
-        },
-        {
-            "name": "bilibili",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/bilibili.png"
-        },
-        {
-            "name": "bilibili_1",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/bilibili_1.png"
-        },
-        {
-            "name": "bilibili_2",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/bilibili_2.png"
-        },
-        {
-            "name": "bilibili_3",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/bilibili_3.png"
-        },
-        {
-            "name": "bilibili_4",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/bilibili_4.png"
         },
         {
             "name": "Blackhole",
@@ -259,28 +819,12 @@
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Bot.png"
         },
         {
-            "name": "BR",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/BR.png"
-        },
-        {
-            "name": "Brazil",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Brazil.png"
-        },
-        {
             "name": "Brown",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Brown.png"
         },
         {
             "name": "Bypass",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Bypass.png"
-        },
-        {
-            "name": "CA",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/CA.png"
-        },
-        {
-            "name": "Canada",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Canada.png"
         },
         {
             "name": "Cat",
@@ -291,24 +835,12 @@
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Catnet.png"
         },
         {
-            "name": "CC",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/CC.png"
-        },
-        {
             "name": "Cellular",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Cellular.png"
         },
         {
             "name": "ChatGPT",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/ChatGPT.png"
-        },
-        {
-            "name": "China",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/China.png"
-        },
-        {
-            "name": "China_Map",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/China_Map.png"
         },
         {
             "name": "Cloudflare",
@@ -325,14 +857,6 @@
         {
             "name": "Clubhouse_2",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Clubhouse_2.png"
-        },
-        {
-            "name": "CN",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/CN.png"
-        },
-        {
-            "name": "Copilot",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Copilot.png"
         },
         {
             "name": "CreamData",
@@ -375,10 +899,6 @@
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/DAZN_2.png"
         },
         {
-            "name": "DE",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/DE.png"
-        },
-        {
             "name": "deezer",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/deezer.png"
         },
@@ -391,40 +911,8 @@
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/deezer_2.png"
         },
         {
-            "name": "Dinosaur",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Dinosaur.png"
-        },
-        {
             "name": "Direct",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Direct.png"
-        },
-        {
-            "name": "Discord",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Discord.png"
-        },
-        {
-            "name": "discovery+",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/discovery+.png"
-        },
-        {
-            "name": "Disney+",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Disney+.png"
-        },
-        {
-            "name": "Disney+_1",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Disney+_1.png"
-        },
-        {
-            "name": "Disney+_2",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Disney+_2.png"
-        },
-        {
-            "name": "Disney",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Disney.png"
-        },
-        {
-            "name": "Domestic",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Domestic.png"
         },
         {
             "name": "DomesticMedia",
@@ -433,18 +921,6 @@
         {
             "name": "Download",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Download.png"
-        },
-        {
-            "name": "Drill",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Drill.png"
-        },
-        {
-            "name": "EG",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/EG.png"
-        },
-        {
-            "name": "Egypt",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Egypt.png"
         },
         {
             "name": "Emby",
@@ -471,26 +947,6 @@
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/ESPN+_2.png"
         },
         {
-            "name": "EU",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/EU.png"
-        },
-        {
-            "name": "European_Union",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/European_Union.png"
-        },
-        {
-            "name": "Europe_Map",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Europe_Map.png"
-        },
-        {
-            "name": "Facebook",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Facebook.png"
-        },
-        {
-            "name": "FI",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/FI.png"
-        },
-        {
             "name": "Filter",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Filter.png"
         },
@@ -507,120 +963,20 @@
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Find_My.png"
         },
         {
-            "name": "Finland",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Finland.png"
-        },
-        {
-            "name": "Flamingo",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Flamingo.png"
-        },
-        {
             "name": "ForeignMedia",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/ForeignMedia.png"
-        },
-        {
-            "name": "FOX",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/FOX.png"
-        },
-        {
-            "name": "FR",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/FR.png"
-        },
-        {
-            "name": "France",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/France.png"
         },
         {
             "name": "friDay",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/friDay.png"
         },
         {
-            "name": "Fries",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Fries.png"
-        },
-        {
             "name": "Frog",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Frog.png"
         },
         {
-            "name": "fuboTV",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/fuboTV.png"
-        },
-        {
             "name": "Game",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Game.png"
-        },
-        {
-            "name": "Germany",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Germany.png"
-        },
-        {
-            "name": "GIA",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/GIA.png"
-        },
-        {
-            "name": "GitHub",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/GitHub.png"
-        },
-        {
-            "name": "GitHub_Letter",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/GitHub_Letter.png"
-        },
-        {
-            "name": "Global",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Global.png"
-        },
-        {
-            "name": "Gmail",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Gmail.png"
-        },
-        {
-            "name": "Google",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Google.png"
-        },
-        {
-            "name": "Google_Drive",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Google_Drive.png"
-        },
-        {
-            "name": "Google_Opinion_Rewards",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Google_Opinion_Rewards.png"
-        },
-        {
-            "name": "Google_Search",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Google_Search.png"
-        },
-        {
-            "name": "HBO",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/HBO.png"
-        },
-        {
-            "name": "HBO_1",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/HBO_1.png"
-        },
-        {
-            "name": "HBO_2",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/HBO_2.png"
-        },
-        {
-            "name": "HBO_GO",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/HBO_GO.png"
-        },
-        {
-            "name": "HBO_GO_1",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/HBO_GO_1.png"
-        },
-        {
-            "name": "HBO_GO_2",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/HBO_GO_2.png"
-        },
-        {
-            "name": "HBO_Max",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/HBO_Max.png"
-        },
-        {
-            "name": "HC",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/HC.png"
         },
         {
             "name": "Heart",
@@ -631,120 +987,12 @@
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Hijacking.png"
         },
         {
-            "name": "HK",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/HK.png"
-        },
-        {
             "name": "HKMTMedia",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/HKMTMedia.png"
         },
         {
-            "name": "Hong_Kong",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Hong_Kong.png"
-        },
-        {
-            "name": "Hulu",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Hulu.png"
-        },
-        {
-            "name": "Hulu_1",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Hulu_1.png"
-        },
-        {
-            "name": "iCloud",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/iCloud.png"
-        },
-        {
-            "name": "IEPL",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/IEPL.png"
-        },
-        {
-            "name": "IN",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/IN.png"
-        },
-        {
-            "name": "India",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/India.png"
-        },
-        {
-            "name": "Infuse",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Infuse.png"
-        },
-        {
-            "name": "Infuse_7",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Infuse_7.png"
-        },
-        {
-            "name": "Ingress",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Ingress.png"
-        },
-        {
-            "name": "Instagram",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Instagram.png"
-        },
-        {
-            "name": "IPLC",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/IPLC.png"
-        },
-        {
-            "name": "iQIYI&bilibili",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/iQIYI&bilibili.png"
-        },
-        {
-            "name": "iQIYI",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/iQIYI.png"
-        },
-        {
-            "name": "iQIYI_1",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/iQIYI_1.png"
-        },
-        {
-            "name": "ITV",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/ITV.png"
-        },
-        {
-            "name": "ITV_1",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/ITV_1.png"
-        },
-        {
-            "name": "ITV_2",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/ITV_2.png"
-        },
-        {
-            "name": "Japan",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Japan.png"
-        },
-        {
             "name": "JOOX",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/JOOX.png"
-        },
-        {
-            "name": "JP",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/JP.png"
-        },
-        {
-            "name": "Kakao",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Kakao.png"
-        },
-        {
-            "name": "KKBOX",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/KKBOX.png"
-        },
-        {
-            "name": "KKTV",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/KKTV.png"
-        },
-        {
-            "name": "Korea",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Korea.png"
-        },
-        {
-            "name": "KR",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/KR.png"
-        },
-        {
-            "name": "LA",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/LA.png"
         },
         {
             "name": "Lab",
@@ -755,16 +1003,8 @@
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Lambda.png"
         },
         {
-            "name": "LA_Map",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/LA_Map.png"
-        },
-        {
             "name": "League_of_Legends",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/League_of_Legends.png"
-        },
-        {
-            "name": "Line",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Line.png"
         },
         {
             "name": "LineTV",
@@ -775,20 +1015,8 @@
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/LinkCube.png"
         },
         {
-            "name": "Linkedin",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Linkedin.png"
-        },
-        {
-            "name": "LiTV",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/LiTV.png"
-        },
-        {
             "name": "Lock",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Lock.png"
-        },
-        {
-            "name": "LOL",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/LOL.png"
         },
         {
             "name": "Loop",
@@ -799,124 +1027,16 @@
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Luffy.png"
         },
         {
-            "name": "Macao",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Macao.png"
-        },
-        {
             "name": "Magic",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Magic.png"
-        },
-        {
-            "name": "Mail",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Mail.png"
-        },
-        {
-            "name": "Malaysia",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Malaysia.png"
         },
         {
             "name": "Media",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Media.png"
         },
         {
-            "name": "Mickey",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Mickey.png"
-        },
-        {
-            "name": "Microsoft",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Microsoft.png"
-        },
-        {
-            "name": "MO",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/MO.png"
-        },
-        {
-            "name": "Mouse",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Mouse.png"
-        },
-        {
-            "name": "Music_Enhance",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Music_Enhance.png"
-        },
-        {
-            "name": "MY",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/MY.png"
-        },
-        {
-            "name": "My5",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/My5.png"
-        },
-        {
-            "name": "myTV_SUPER",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/myTV_SUPER.png"
-        },
-        {
-            "name": "Naiko",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Naiko.png"
-        },
-        {
-            "name": "NBA",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/NBA.png"
-        },
-        {
-            "name": "NBC",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/NBC.png"
-        },
-        {
-            "name": "Netease_Music",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Netease_Music.png"
-        },
-        {
-            "name": "Netease_Music_Unlock",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Netease_Music_Unlock.png"
-        },
-        {
-            "name": "Netflix",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Netflix.png"
-        },
-        {
-            "name": "Netflix_Letter",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Netflix_Letter.png"
-        },
-        {
-            "name": "Nfcloud",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Nfcloud.png"
-        },
-        {
-            "name": "niconico",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/niconico.png"
-        },
-        {
-            "name": "niconico_1",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/niconico_1.png"
-        },
-        {
-            "name": "niconico_2",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/niconico_2.png"
-        },
-        {
             "name": "Ninja",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Ninja.png"
-        },
-        {
-            "name": "Nintendo",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Nintendo.png"
-        },
-        {
-            "name": "Notion",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Notion.png"
-        },
-        {
-            "name": "nowe",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/nowe.png"
-        },
-        {
-            "name": "Null_Nation",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Null_Nation.png"
-        },
-        {
-            "name": "Oceania_Map",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Oceania_Map.png"
         },
         {
             "name": "OneDrive",
@@ -939,10 +1059,6 @@
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Paramount.png"
         },
         {
-            "name": "PayPal",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/PayPal.png"
-        },
-        {
             "name": "PBS",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/PBS.png"
         },
@@ -959,20 +1075,8 @@
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Peacock_2.png"
         },
         {
-            "name": "PH",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/PH.png"
-        },
-        {
-            "name": "Philippines",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Philippines.png"
-        },
-        {
             "name": "Pig",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Pig.png"
-        },
-        {
-            "name": "Pirate_Nation",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Pirate_Nation.png"
         },
         {
             "name": "PlayStation",
@@ -983,38 +1087,6 @@
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/PlayStation_1.png"
         },
         {
-            "name": "Pornhub",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Pornhub.png"
-        },
-        {
-            "name": "Pornhub_1",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Pornhub_1.png"
-        },
-        {
-            "name": "Pornhub_2",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Pornhub_2.png"
-        },
-        {
-            "name": "PostBox",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/PostBox.png"
-        },
-        {
-            "name": "PostBox_1",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/PostBox_1.png"
-        },
-        {
-            "name": "Prime_Video",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Prime_Video.png"
-        },
-        {
-            "name": "Prime_Video_1",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Prime_Video_1.png"
-        },
-        {
-            "name": "Prime_Video_2",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Prime_Video_2.png"
-        },
-        {
             "name": "Proxy",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Proxy.png"
         },
@@ -1023,24 +1095,8 @@
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Puzzle.png"
         },
         {
-            "name": "QQ",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/QQ.png"
-        },
-        {
-            "name": "Quantumult_X",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Quantumult_X.png"
-        },
-        {
-            "name": "Qure",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Qure.png"
-        },
-        {
             "name": "Rainbow",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Rainbow.png"
-        },
-        {
-            "name": "Rainbow_1",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Rainbow_1.png"
         },
         {
             "name": "Reject",
@@ -1055,24 +1111,12 @@
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Ring.png"
         },
         {
-            "name": "Rocket",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Rocket.png"
-        },
-        {
             "name": "Round_Robin",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Round_Robin.png"
         },
         {
             "name": "Round_Robin_1",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Round_Robin_1.png"
-        },
-        {
-            "name": "RU",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/RU.png"
-        },
-        {
-            "name": "Russia",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Russia.png"
         },
         {
             "name": "Ryan",
@@ -1085,14 +1129,6 @@
         {
             "name": "Server",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Server.png"
-        },
-        {
-            "name": "SG",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/SG.png"
-        },
-        {
-            "name": "Singapore",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Singapore.png"
         },
         {
             "name": "Siri",
@@ -1109,10 +1145,6 @@
         {
             "name": "Speedtest",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Speedtest.png"
-        },
-        {
-            "name": "Spotify",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Spotify.png"
         },
         {
             "name": "SSID",
@@ -1163,10 +1195,6 @@
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Static_1.png"
         },
         {
-            "name": "Steam",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Steam.png"
-        },
-        {
             "name": "Streaming!CN",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Streaming!CN.png"
         },
@@ -1187,42 +1215,6 @@
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/TAG.png"
         },
         {
-            "name": "Taiwan",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Taiwan.png"
-        },
-        {
-            "name": "Taobao",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Taobao.png"
-        },
-        {
-            "name": "Telegram",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Telegram.png"
-        },
-        {
-            "name": "Telegram_X",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Telegram_X.png"
-        },
-        {
-            "name": "TestFlight",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/TestFlight.png"
-        },
-        {
-            "name": "TestFlight_1",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/TestFlight_1.png"
-        },
-        {
-            "name": "TestFlight_2",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/TestFlight_2.png"
-        },
-        {
-            "name": "TH",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/TH.png"
-        },
-        {
-            "name": "Thailand",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Thailand.png"
-        },
-        {
             "name": "TIDAL",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/TIDAL.png"
         },
@@ -1235,58 +1227,6 @@
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/TIDAL_2.png"
         },
         {
-            "name": "TikTok",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/TikTok.png"
-        },
-        {
-            "name": "TikTok_1",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/TikTok_1.png"
-        },
-        {
-            "name": "TikTok_2",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/TikTok_2.png"
-        },
-        {
-            "name": "TR",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/TR.png"
-        },
-        {
-            "name": "Tubi",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Tubi.png"
-        },
-        {
-            "name": "Turkey",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Turkey.png"
-        },
-        {
-            "name": "TVB",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/TVB.png"
-        },
-        {
-            "name": "TW",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/TW.png"
-        },
-        {
-            "name": "Twitch",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Twitch.png"
-        },
-        {
-            "name": "Twitter",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Twitter.png"
-        },
-        {
-            "name": "UA",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/UA.png"
-        },
-        {
-            "name": "UK",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/UK.png"
-        },
-        {
-            "name": "Ukraine",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Ukraine.png"
-        },
-        {
             "name": "ULB",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/ULB.png"
         },
@@ -1295,32 +1235,8 @@
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/ULB_1.png"
         },
         {
-            "name": "UN",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/UN.png"
-        },
-        {
-            "name": "United_Kingdom",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/United_Kingdom.png"
-        },
-        {
-            "name": "United_Nations",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/United_Nations.png"
-        },
-        {
-            "name": "United_States",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/United_States.png"
-        },
-        {
-            "name": "United_States_Map",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/United_States_Map.png"
-        },
-        {
             "name": "Unlock",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Unlock.png"
-        },
-        {
-            "name": "US",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/US.png"
         },
         {
             "name": "Vimeo",
@@ -1343,68 +1259,12 @@
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Want_Want.png"
         },
         {
-            "name": "Want_Want_1",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Want_Want_1.png"
-        },
-        {
-            "name": "WeChat",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/WeChat.png"
-        },
-        {
-            "name": "Weibo",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Weibo.png"
-        },
-        {
-            "name": "WeTV",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/WeTV.png"
-        },
-        {
-            "name": "WeTV_Letter",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/WeTV_Letter.png"
-        },
-        {
             "name": "WiFi",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/WiFi.png"
         },
         {
-            "name": "Windows",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Windows.png"
-        },
-        {
-            "name": "Windows_11",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Windows_11.png"
-        },
-        {
-            "name": "World_Map",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/World_Map.png"
-        },
-        {
             "name": "X",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/X.png"
-        },
-        {
-            "name": "Xbox",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Xbox.png"
-        },
-        {
-            "name": "Yahoo",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Yahoo.png"
-        },
-        {
-            "name": "Yahoo_1",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/Yahoo_1.png"
-        },
-        {
-            "name": "YouTube",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/YouTube.png"
-        },
-        {
-            "name": "YouTube_Letter",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/YouTube_Letter.png"
-        },
-        {
-            "name": "YouTube_Music",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/koolson_color/YouTube_Music.png"
         },
         {
             "name": "girl",
@@ -1417,6 +1277,146 @@
         {
             "name": "猫爪01",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/likes/猫爪01.png"
+        },
+        {
+            "name": "AGA",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/AGA.png"
+        },
+        {
+            "name": "AIA",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/AIA.png"
+        },
+        {
+            "name": "AR",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/AR.png"
+        },
+        {
+            "name": "AU",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/AU.png"
+        },
+        {
+            "name": "BGP",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/BGP.png"
+        },
+        {
+            "name": "BR",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/BR.png"
+        },
+        {
+            "name": "CA",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/CA.png"
+        },
+        {
+            "name": "CC",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/CC.png"
+        },
+        {
+            "name": "CN",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/CN.png"
+        },
+        {
+            "name": "DE",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/DE.png"
+        },
+        {
+            "name": "EG",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/EG.png"
+        },
+        {
+            "name": "EU",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/EU.png"
+        },
+        {
+            "name": "FI",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/FI.png"
+        },
+        {
+            "name": "FR",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/FR.png"
+        },
+        {
+            "name": "GIA",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/GIA.png"
+        },
+        {
+            "name": "HC",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/HC.png"
+        },
+        {
+            "name": "HK",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/HK.png"
+        },
+        {
+            "name": "IEPL",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/IEPL.png"
+        },
+        {
+            "name": "IN",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/IN.png"
+        },
+        {
+            "name": "IPLC",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/IPLC.png"
+        },
+        {
+            "name": "JP",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/JP.png"
+        },
+        {
+            "name": "KR",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/KR.png"
+        },
+        {
+            "name": "LA",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/LA.png"
+        },
+        {
+            "name": "MO",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/MO.png"
+        },
+        {
+            "name": "MY",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/MY.png"
+        },
+        {
+            "name": "PH",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/PH.png"
+        },
+        {
+            "name": "RU",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/RU.png"
+        },
+        {
+            "name": "SG",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/SG.png"
+        },
+        {
+            "name": "TH",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/TH.png"
+        },
+        {
+            "name": "TR",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/TR.png"
+        },
+        {
+            "name": "TW",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/TW.png"
+        },
+        {
+            "name": "UA",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/UA.png"
+        },
+        {
+            "name": "UK",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/UK.png"
+        },
+        {
+            "name": "UN",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/UN.png"
+        },
+        {
+            "name": "US",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/short_name/US.png"
         },
         {
             "name": "proxy",
