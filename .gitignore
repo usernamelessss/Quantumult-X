@@ -24,4 +24,6 @@ bulid/
 *.sublime-workspace
 *.sublime-project
 
-5
+dist/
+build/
+*.spec
