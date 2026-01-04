@@ -143,8 +143,16 @@
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/fuboTV.png"
         },
         {
+            "name": "Ghounter_108px_R16",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Ghounter_108px_R16.png"
+        },
+        {
             "name": "GitHub",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/GitHub.png"
+        },
+        {
+            "name": "GitHub_108px_R16",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/GitHub_108px_R16.png"
         },
         {
             "name": "GitHub_Letter",
