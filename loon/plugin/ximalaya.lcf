@@ -1,7 +1,8 @@
-#!name=喜马拉雅会员
-#!desc=喜马拉雅+会员调试(软件版本：9.4.41)，电报频道：https://t.me/GieGie777
+#!name=喜马拉雅听书
+#!desc=会员调试，软件版本：9.4.41
 #!author=GieGie777
 #!icon=https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E6%9E%81%E9%80%9F%E7%89%88-%E7%95%85%E5%90%AC%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E7%9B%B8%E5%A3%B0%E8%AF%84%E4%B9%A6_108px_R16.png
+#!homepage=https://t.me/GieGie777/3866
 #!date=2026-01-30
 
 [Script]
