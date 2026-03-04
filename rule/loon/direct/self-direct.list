@@ -1,0 +1,32 @@
+# Converted from sing-box self-direct.json
+# All rules below go DIRECT
+
+DOMAIN,68bd384lrg.execute-api.ap-northeast-1.amazonaws.com,DIRECT
+DOMAIN,yacd.metacubex.one,DIRECT
+DOMAIN,zxcs,DIRECT
+DOMAIN,x-superflash.com,DIRECT
+DOMAIN,su.x-theflash.com,DIRECT
+DOMAIN,2-superflash.com,DIRECT
+DOMAIN,cyberguard.cfd,DIRECT
+DOMAIN,icon-icons.com,DIRECT
+DOMAIN,cdn.icon-icons.com,DIRECT
+DOMAIN,simgv.com,DIRECT
+DOMAIN,board.zash.run.place,DIRECT
+DOMAIN,haveibeenpwned.com,DIRECT
+DOMAIN,www.10000txt.com,DIRECT
+DOMAIN,www.freexiaoshuo.com,DIRECT
+DOMAIN,www.vdm11.com,DIRECT
+DOMAIN,4f2dd13d.zycs-img-3ao.pages.dev,DIRECT
+DOMAIN,zycs-img-3ao.pages.dev,DIRECT
+DOMAIN,www.iconarchive.com,DIRECT
+DOMAIN,www.emojiall.com,DIRECT
+DOMAIN,www.3ylt.xyz,DIRECT
+DOMAIN,dywebozmbm.1145145.com,DIRECT
+DOMAIN,console.ash.wf,DIRECT
+DOMAIN,console.ash.do,DIRECT
+DOMAIN,x.ash.do,DIRECT
+DOMAIN,portal.ash.do,DIRECT
+DOMAIN,dash.ash.do,DIRECT
+DOMAIN,yesicon.app,DIRECT
+
+DOMAIN-SUFFIX,flaticon.com,DIRECT
