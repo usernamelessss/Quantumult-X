@@ -1,8 +1,4 @@
 # Author：usernameless
-# UPDATED: 2026-03-05
-# DOMAIN-SUFFIX: 5
-# DOMAIN: 4
-# TOTAL: 9
 
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,grok.x.ai
@@ -13,4 +9,4 @@ DOMAIN-SUFFIX,api.grok.x.ai
 DOMAIN,grok.com
 DOMAIN,www.grok.com
 DOMAIN,api.x.ai
-DOMAIN,x.com         # Grok 网页大量调用 x.com API
+DOMAIN,x.com
