@@ -1,0 +1,37 @@
+modules:
+  name: "鲍鱼盒子VIP"
+  description : "鲍鱼盒子18+，下载地址：无法变身或者无网络拷贝右边数字符号重新打开👉~@85910590@~👈"
+  author: "https://t.me/GieGie777"
+  icon: "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/多春 - 私密视频聊天交友平台-iOS-1024x1024.png"
+map_locals:
+- match: ^https?://siajksslwiso\.anningsh\.com/report
+  status_code: 200
+  body: ' '
+scriptings:
+- http_request:
+    name: byhz
+    match: ^https?:\/\/.+\/api\/(video\/report_item?|live\/room\/detail?|video\/related?|video\/detail|socialposts_info|my\/profile)
+    script_url: https://raw.githubusercontent.com/WeiGiegie/666/main/byhz.js
+    timeout: 60
+mitm:
+  hostnames:
+    includes:
+    - w1c2.ooat88.com
+    - tu.dfgfdg.win
+    - 103.44.236.*
+    - '*.artrg.cn'
+    - vkfqb.ojyrz.com
+    - byapi.*.com
+    - 211.99.98.*
+    - 103.39.222.*
+    - yubaoyu.oss-cn-shenzhen.aliyuncs.com
+    - '*api.h8h4h.com'
+    - 42.157.129.25
+    - siajksslwiso.anningsh.com
+    - 211.99.98.63
+    - 111.180.204.11
+    - 88.gbvdfe.com
+    - vdop.fqoas.com
+    - ica.ooat88.com
+    - 103.44.236.131
+    - 211.154.21.150
